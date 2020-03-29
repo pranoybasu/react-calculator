@@ -1,2 +1,2 @@
 # react-calculator
-windows responsive calculator made on reactJS
+windows responsive calculator made using reactJS
